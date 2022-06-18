@@ -6,7 +6,8 @@
 cryptocurrency
 - 🌱 I’m currently learning React Native for Android Development and React.js for Frontend Development
 - 💞️ I’m looking to collaborate on any project and work that will come my way
-
-- [!PKaranja60's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkaranja60)](https://github.com/anuraghazra/github-readme-stats)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkaranja60&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+- 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pkaranja60)](https://git.io/streak-stats)
+[!PKaranja60's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkaranja60)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkaranja60&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Pkaranja60 GitHub stats](https://github-readme-stats.vercel.app/api?username=pkaranja60&show_icons=true&theme=radical)
