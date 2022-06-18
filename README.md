@@ -12,4 +12,4 @@ cryptocurrency
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkaranja60&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Pkaranja60 GitHub stats](https://github-readme-stats.vercel.app/api?username=pkaranja60&show_icons=true&theme=radical)
 
-![Darkknight123's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkaranja60&count_private=true&show_icons=true&theme=radical)
+\
