@@ -20,9 +20,9 @@ cryptocurrency
 <h1 align="center">Hi 👋, I'm Peter Karanja</h1>
 <h3 align="center">A passionate web and mobile developer from Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pkaranja60&label=Profile%20views&color=0e75b6&style=flat" alt="pkaranja60" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pkaranja60&label=Profile%20views&color=0e75b6&style=flat" alt="pkaranja60" /> </p>
 
-<p align="left"> <a href="https://twitter.com/60karanjapeter" target="blank"><img src="https://img.shields.io/twitter/follow/60karanjapeter?logo=twitter&style=for-the-badge" alt="60karanjapeter" /></a> </p>
+<p align="center"> <a href="https://twitter.com/60karanjapeter" target="blank"><img src="https://img.shields.io/twitter/follow/60karanjapeter?logo=twitter&style=for-the-badge" alt="60karanjapeter" /></a> </p>
 
 - 🔭 I’m currently working on **Real Estate listing**
 
@@ -34,8 +34,8 @@ cryptocurrency
 
 - ⚡ Fun fact **I am a huge fan of Anime**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/60karanjapeter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="60karanjapeter" height="30" width="40" /></a>
 </p>
 
@@ -46,6 +46,6 @@ cryptocurrency
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pkaranja60&show_icons=true&locale=en" alt="pkaranja60" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pkaranja60&" alt="pkaranja60" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pkaranja60&" alt="pkaranja60" /></p>
 
 
