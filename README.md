@@ -44,7 +44,8 @@ cryptocurrency
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pkaranja60&show_icons=true&locale=en&layout=compact" alt="pkaranja60" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pkaranja60&show_icons=true&locale=en" alt="pkaranja60" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pkaranja60&show_icons=true&locale=en" alt="pkaranja60" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=pkaranja60&show_icons=true&theme=radical" alt="pkaranja60" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pkaranja60&" alt="pkaranja60" /></p>
+
 
