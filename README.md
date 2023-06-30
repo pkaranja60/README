@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="code-banner" width=1000 src="https://marketplace.canva.com/EAFIIXtAkBQ/1/0/1600w/canva-violet-pink-blue-anime-music-twitch-screen-Y4sf8pLm3HE.jpg" >
+  <img alt="code-banner" width=200 src="https://marketplace.canva.com/EAFIIXtAkBQ/1/0/1600w/canva-violet-pink-blue-anime-music-twitch-screen-Y4sf8pLm3HE.jpg" >
 </p>
 <h1 align="center">Hi 👋, I'm Peter Karanja</h1>
 <p align="center">
