@@ -16,8 +16,9 @@ cryptocurrency
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN43cAgO1LNlg0yC4h2IyS1s-NZnUaAi3whw&usqp=CAU)]
 <h1 align="center">Hi 👋, I'm Peter Karanja</h1>
+<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="center">A passionate web and mobile developer from Kenya</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pkaranja60&label=Profile%20views&color=0e75b6&style=flat" alt="pkaranja60" /> </p>
@@ -37,6 +38,8 @@ cryptocurrency
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/60karanjapeter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="60karanjapeter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/peter-karanja-techninja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter-karanja-techninja" height="30" width="40" /></a>
+<a href="https://instagram.com/peterkaranja60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="peterkaranja60" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
