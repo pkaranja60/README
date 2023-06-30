@@ -19,7 +19,9 @@ cryptocurrency
 
 ![Header](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN43cAgO1LNlg0yC4h2IyS1s-NZnUaAi3whw&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Peter Karanja</h1>
-<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="center">
+  <img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</p>
 <h3 align="center">A passionate web and mobile developer from Kenya</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pkaranja60&label=Profile%20views&color=0e75b6&style=flat" alt="pkaranja60" /> </p>
