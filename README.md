@@ -17,7 +17,7 @@ cryptocurrency
 <!-- BLOG-POST-LIST:END -->
 
 
-<p>
+<p align="center">
   <img alt="code-banner" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN43cAgO1LNlg0yC4h2IyS1s-NZnUaAi3whw&usqp=CAU" >
 </p>
 <h1 align="center">Hi 👋, I'm Peter Karanja</h1>
