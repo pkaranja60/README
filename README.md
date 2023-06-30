@@ -18,7 +18,7 @@ cryptocurrency
 
 
 <p align="center">
-  <img alt="code-banner" width=1600 height=500 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN43cAgO1LNlg0yC4h2IyS1s-NZnUaAi3whw&usqp=CAU" >
+  <img alt="code-banner" width=1600 height=250 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN43cAgO1LNlg0yC4h2IyS1s-NZnUaAi3whw&usqp=CAU" >
 </p>
 <h1 align="center">Hi 👋, I'm Peter Karanja</h1>
 <p align="center">
